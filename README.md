@@ -76,7 +76,7 @@ This is a Mileage Tracker iOS app built using Swift and SwiftUI. The app allows 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 
-##Contact
+## Contact
 For any questions or suggestions, please reach out to agrawal.sarthak87@gmail.com .
 
    
