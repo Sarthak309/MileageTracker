@@ -13,6 +13,13 @@ This is a Mileage Tracker iOS app built using Swift and SwiftUI. The app allows 
 - "Done" button on the keyboard to dismiss it.
 - Visual feedback for mileage comparison (improved mileage, equal, or reduced).
 
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="asset/1.png" alt="Screenshot 1" width="300"/>
+    <img src="asset/2.png" alt="Screenshot 2" width="300"/>
+</div>
+
 ## Tech Stack
 
 - **Frontend**: Swift, SwiftUI
