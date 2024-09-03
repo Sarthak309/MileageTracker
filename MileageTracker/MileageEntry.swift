@@ -19,3 +19,20 @@ struct MileageData: Codable{
     var mileage: Double?
     var mileageComparisonFromPrevMileage: MileageCompare
 }
+
+enum MileageCompare: Codable{
+    case more
+    case equal
+    case less
+    
+    var color: UIColor{
+        switch self{
+        case .more:
+            return UIColor.systemGreen
+        case .less:
+            return UIColor.systemRed
+        case .equal:
+            return UIColor.systemGray
+        }
+    }
+}
